@@ -6,7 +6,7 @@ This project explores a DVD rental business and its performance over time. Using
 ### Business Problem
 The DVD rental company doesn’t have easy access to store-level and company-level performance insights. This project utilizes the rental data to answer the following questions:
 1.	Which stores generate the most revenue and rentals?
-2.	Which customers contribute most to profit?
+2.	Which customers contribute most to revenue?
 3.	Can customers be segmented by value?
 4.	Which films are most profitable in terms of revenue (not just most rented)?
 5.	How does revenue trend over time?
