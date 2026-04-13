@@ -87,29 +87,34 @@ The top 10 highest-spending customers account for only ~2.38% of total revenue.
 
 ## Business Recommendations
 **1.	Maintain balanced store operations**
+
 Since both perform similarly in terms of revenue and rental volume:
 -	Continue current allocation of resources
 -	Monitor trends over time to detect early shifts
 -	Investigate performance differences
 
 **2.	Focus on customer retention, not acquisition**
+
 Revenue is evenly distributed across all customers, with no reliance on the top spenders. Maintaining current customers’ loyalty is a top priority. 
 -	Invest in loyalty programs and retention strategies
 -	Track customer behavior over time to identify churn risk
 
 **3.	Optimize inventory**
+
 Revenue is primarily driven by rental volume, so revenue prices should not be altered. 
 -	Prioritize stocking films that are in high demand to avoid missing out on revenue opportunities
 -	Ensure availability during peak periods for films with high rental counts
 -	Promote films with higher revenue per rental that are lower in demand to increase their visibility
 
 **4.	Introduce targeted segmentation strategies**
+
 Most customers fall into mid- to high-value segments, indicating strong overall spending behavior. Different strategies should be developed for each segment.
 -	High-value: reward their loyalty and encourage continued engagement
 -	Mid-value: upsell through bundles or recommendations
 -	Low-value: increase engagement through promotions and discounts
 
 **5.	 Leverage revenue trends for planning/forecasting**
+
 Monthly revenue trends show consistent growth with periodic fluctuations.
 -	Align inventory and promotions with peak demand periods
 -	Use historical trends to predict future performance
