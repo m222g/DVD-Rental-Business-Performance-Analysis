@@ -13,7 +13,9 @@ The DVD rental company doesn’t have easy access to store-level and company-lev
 6.	Is revenue evenly distributed or concentrated among certain customers and/or stores?
 These insights will enable efficient resource allocation and effective decision-making.
 
-<img width="468" height="193" alt="Overview of dataset tables and relationships among them" src="https://github.com/user-attachments/assets/688317db-16d6-49d5-bde9-8e170613171f" />
+<img width="2578" height="1105" alt="Data relationships" src="https://github.com/user-attachments/assets/4ab0a732-4727-47f0-a5d1-fa657118641f" />
+
+
 Overview of dataset tables and relationships among them. 
 
 ### Methodology
