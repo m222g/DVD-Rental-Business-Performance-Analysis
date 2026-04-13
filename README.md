@@ -3,6 +3,11 @@
 ## Executive Summary
 This project explores a DVD rental business and its performance over time. Using SQL, I uncovered insights across store locations, customer spending, film popularity, and revenue trends. The goal was to mimic a real-world analytics workflow by structuring the data and building a KPI reporting layer. The analysis turns raw data into a structured data model using SQL views, allowing scalable reporting to help aid decision-making.
 
+## Executive KPI Snapshot
+<img width="620" height="78" alt="KPI snapshot" src="https://github.com/user-attachments/assets/4cb03dce-a5e1-4b47-84c9-7d19d5a39819" />
+
+This table summarizes key business KPIs, including total rentals, total revenue, revenue per rental, and revenue share. 
+
 ### Business Problem
 The DVD rental company doesn’t have easy access to store-level and company-level performance insights. This project utilizes the rental data to answer the following questions:
 1.	Which stores generate the most revenue and rentals?
@@ -32,6 +37,8 @@ Data Modeling: Utilized views to simplify analysis and allow reusability
 `customer_spending` - aggregates customers’ lifetime spending contribution
 
 `film_performance` - calculates rental count and revenue for each film
+
+`store_performance` - summarizes key KPIs at the store level (rentals, revenue, efficiency, revenue share)
 
 ### Skills
 -	SQL (JOINs, Aggregations, CTEs, Views, Window Functions)
@@ -105,6 +112,8 @@ Monthly revenue trends show consistent growth with periodic fluctuations.
 -	Align inventory and promotions with peak demand periods
 -	Use historical trends to predict future performance
 -	Plan marketing campaigns around high-demand seasons
+
+
 
 ### Next Steps
 1.	Expand geographical/store-level analysis to identify regional demands
