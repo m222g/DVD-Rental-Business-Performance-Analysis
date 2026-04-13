@@ -41,9 +41,11 @@ Data Modeling: Utilized views to simplify analysis and allow reusability
 
 #### Store Performance table
 <img width="468" height="62" alt="Store performance table" src="https://github.com/user-attachments/assets/3a3a05fc-f95a-4e40-859f-0963876ed945" />
+
 The business has 2 active stores, each accounting for about 50% of total revenue. Store outperformed Store 1 slightly by:
 -	~$11,510 higher revenue
 -	Slightly higher revenue per rental (+$0.46) 
+
 **Insights**: Store performance is evenly distributed. This suggests the business is **not overly dependent** on a single location.
 
 
