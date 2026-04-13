@@ -10,6 +10,7 @@ This table summarizes key business KPIs, including total rentals, total revenue,
 
 ### Business Problem
 The DVD rental company doesn’t have easy access to store-level and company-level performance insights. This project utilizes the rental data to answer the following questions:
+
 1.	Which stores generate the most revenue and rentals?
 2.	Which customers contribute most to revenue?
 3.	Can customers be segmented by value?
