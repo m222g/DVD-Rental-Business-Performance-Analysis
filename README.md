@@ -17,6 +17,7 @@ The DVD rental company doesn’t have easy access to store-level and company-lev
 4.	Which films are most profitable in terms of revenue (not just most rented)?
 5.	How does revenue trend over time?
 6.	Is revenue evenly distributed or concentrated among certain customers and/or stores?
+
 These insights will enable efficient resource allocation and effective decision-making.
 
 <img width="2578" height="1105" alt="Data relationships" src="https://github.com/user-attachments/assets/4ab0a732-4727-47f0-a5d1-fa657118641f" />
